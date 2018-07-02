@@ -1,0 +1,9 @@
+Model - Where all the data is stored
+
+View - What the user sees (HTML and CSS)
+
+Controller - Where the programming work is done. 
+(Gets the inputted data, manipulates it, then pushes it to the model)
+
+When the model updates, the view changes, and the user sees it.
+
